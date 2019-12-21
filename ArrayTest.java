@@ -17,5 +17,6 @@ public class ArrayTest {
 			sum += array[j];
 		}
 		System.out.println(sum);
+		111
 	}
 }
